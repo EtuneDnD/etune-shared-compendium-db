@@ -1,5 +1,5 @@
 {
-    "_id": "6punSegNQqNEjYoy",
+    "_id": "7l34h7mB2UkEQNBy",
     "name": "Zunin Zulimar",
     "type": "character",
     "img": "tokenizer/pc-images/zunin_zulimar.Avatar.webp?1668294119637",
@@ -9339,7 +9339,8 @@
     "permission": {
         "default": 0,
         "4rkPnoaGgaMEIREN": 3,
-        "AvHiYTH4vVZErVSP": 3
+        "AvHiYTH4vVZErVSP": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "automated-evocations": {
