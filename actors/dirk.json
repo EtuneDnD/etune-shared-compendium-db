@@ -1,5 +1,5 @@
 {
-    "_id": "2gLEVoGHPaBsWnGo",
+    "_id": "NM1VCZ2zoAQrHOwk",
     "name": "Dirk",
     "type": "character",
     "img": "tokenizer/pc-images/rodri.Avatar.webp?1668294441226",
@@ -4258,7 +4258,8 @@
     "permission": {
         "default": 2,
         "4rkPnoaGgaMEIREN": 3,
-        "IfO5PjOMDWDnNTP5": 3
+        "IfO5PjOMDWDnNTP5": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "enhancedcombathud": {
