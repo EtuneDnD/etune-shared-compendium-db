@@ -1,5 +1,5 @@
 {
-    "_id": "KG3uRCGFGZbKOY5w",
+    "_id": "lr3eWhpqh1yQbr2v",
     "name": "Thunder Chocolate",
     "type": "character",
     "img": "icons/svg/mystery-man.svg",
@@ -3584,7 +3584,8 @@
     "permission": {
         "default": 2,
         "4rkPnoaGgaMEIREN": 3,
-        "dVlh1ZwuTyJvhX2C": 3
+        "dVlh1ZwuTyJvhX2C": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "core": {
