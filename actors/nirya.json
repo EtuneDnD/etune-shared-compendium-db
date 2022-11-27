@@ -1,5 +1,5 @@
 {
-    "_id": "vCisSxAWeWh9TizY",
+    "_id": "Mp0LuAAIwetBCqDq",
     "name": "Nirya",
     "type": "character",
     "img": "tokenizer/pc-images/nirya.Avatar.webp?1668294143942",
@@ -6340,7 +6340,8 @@
     "permission": {
         "default": 0,
         "4rkPnoaGgaMEIREN": 3,
-        "xlkVnLGlJwz2LYz1": 3
+        "xlkVnLGlJwz2LYz1": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "dae": {
