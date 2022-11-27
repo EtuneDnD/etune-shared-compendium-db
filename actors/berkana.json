@@ -1,5 +1,5 @@
 {
-    "_id": "btlT6dYdY2f9T1e8",
+    "_id": "s7q6YgAcBt0RQMFL",
     "name": "Berkana",
     "type": "character",
     "img": "systems/dnd5e/tokens/heroes/RangerBow.webp",
@@ -4187,7 +4187,8 @@
     "permission": {
         "default": 2,
         "4rkPnoaGgaMEIREN": 3,
-        "9G7UHRfg4VJlHmIH": 3
+        "9G7UHRfg4VJlHmIH": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "dae": {
