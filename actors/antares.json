@@ -1,5 +1,5 @@
 {
-    "_id": "rwH7xxMKzC2TIhkY",
+    "_id": "bNf5GHVh23klxVLh",
     "name": "Antares",
     "type": "character",
     "img": "tokenizer/pc-images/antares.Avatar.webp?1668294311642",
@@ -8600,7 +8600,8 @@
     "permission": {
         "default": 0,
         "4rkPnoaGgaMEIREN": 3,
-        "NOL50u60DYpdf7mT": 3
+        "NOL50u60DYpdf7mT": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "dae": {
