@@ -1,5 +1,5 @@
 {
-    "_id": "yLm6D0z8vIthj9mp",
+    "_id": "QiAXYPnSzuKy7hKW",
     "name": "Dralsha",
     "type": "character",
     "img": "tokenizer/pc-images/dralsha.Avatar.webp?1668294359913",
@@ -8779,7 +8779,8 @@
     "permission": {
         "default": 2,
         "4rkPnoaGgaMEIREN": 3,
-        "CJ4NwJbv8u87Lm1p": 3
+        "CJ4NwJbv8u87Lm1p": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "midi-qol": {
