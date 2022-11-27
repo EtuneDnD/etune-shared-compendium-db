@@ -1,5 +1,5 @@
 {
-    "_id": "uc2pSCbZQzQkfqM4",
+    "_id": "v4Q2czUDIG87iWFY",
     "name": "Rikki",
     "type": "character",
     "img": "tokenizer/pc-images/rikki.Avatar.webp?1668294277382",
@@ -7577,7 +7577,8 @@
     "permission": {
         "default": 0,
         "4rkPnoaGgaMEIREN": 3,
-        "GK5EKYTiV6zZvmcN": 3
+        "GK5EKYTiV6zZvmcN": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "core": {
