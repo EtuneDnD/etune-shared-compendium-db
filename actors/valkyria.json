@@ -1,5 +1,5 @@
 {
-    "_id": "YPNiVgKfx0oy22Sz",
+    "_id": "4NzeKyW5dwBM7T9H",
     "name": "Valkyria",
     "type": "character",
     "img": "icons/svg/mystery-man.svg",
@@ -4315,7 +4315,8 @@
     "sort": 0,
     "permission": {
         "default": 0,
-        "4rkPnoaGgaMEIREN": 3
+        "4rkPnoaGgaMEIREN": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {}
 }
