@@ -1,5 +1,5 @@
 {
-    "_id": "tcTjUHyBpjbcPi0Y",
+    "_id": "QK0oyfe6mSIJKYZj",
     "name": "Ekalos Tyrson",
     "type": "character",
     "img": "systems/dnd5e/tokens/heroes/WizardTome.webp",
@@ -5522,7 +5522,8 @@
     "permission": {
         "default": 2,
         "4rkPnoaGgaMEIREN": 3,
-        "krGKwKDLRXdKKMQc": 3
+        "krGKwKDLRXdKKMQc": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "enhancedcombathud": {
