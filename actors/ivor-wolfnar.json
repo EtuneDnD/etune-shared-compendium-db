@@ -1,5 +1,5 @@
 {
-    "_id": "B95qmRBoSvAO7V6l",
+    "_id": "VdFMfJ5EyPMujBpe",
     "name": "Ivor Wolfnar",
     "type": "character",
     "img": "systems/dnd5e/tokens/heroes/BarbarianAxe.png",
@@ -3991,7 +3991,8 @@
     "permission": {
         "default": 2,
         "Sits0raTGdiEGyMg": 3,
-        "4rkPnoaGgaMEIREN": 3
+        "4rkPnoaGgaMEIREN": 3,
+        "iFaqIfQMv7dfWwBB": 3
     },
     "flags": {
         "dae": {
